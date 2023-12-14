@@ -4,8 +4,8 @@ several interrelated subprojects:
 -   [rdabase](https://github.com/rdatools/rdabase)&#8212;Provides 2020 precinct-level 
     census, demographic, and election data and precinct shapes, 
     as well as some utility code shared across the other projects.
--   [rdascore](https://github.com/rdatools/rdascore)&#8212;Enables high-volume offline 
-    from Dave's Redistricting (DRA) scoring of redistricting plans 
+-   [rdascore](https://github.com/rdatools/rdascore)&#8212;Enables high-volume 
+    offline-from-Dave's-Redistricting (DRA) scoring of redistricting plans 
     [Medium](https://medium.com/dra-2020/high-volume-offline-scoring-of-plans-2f54dae48d1b).
 -   [rdadccvt](https://github.com/rdatools/rdadccvt)&#8212;Balzer's algorithm (DCCVT) 
     to find a maximally population compact map.
