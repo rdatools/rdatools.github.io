@@ -1,5 +1,3 @@
-# RDA Tools
-
 The [rdatools](https://github.com/orgs/rdatools/repositories) project consists of several interrelated subprojects:
 
 -   [rdabase](https://github.com/rdatools/rdabase)&#8212;Provides 2020 precinct-level census, demographic, and election data and precinct shapes, 
