@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+permalink: /
 ---
 
 The [rdatools](https://github.com/orgs/rdatools/repositories) project consists of 
