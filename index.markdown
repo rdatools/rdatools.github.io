@@ -27,6 +27,7 @@ We are working several (not-yet-public) follow-on projects:
 -   [rdaroot](https://github.com/rdatools/rdaroot)&#8212;A heuristic approach for 
     approximating the root redistricting maps (plans) that we introduced in
     [Redistricting Trade-offs Illuminated](https://alecramsay.github.io/pg/).
+-   [tradeoffs](https://github.com/rdatools/tradeoffs)&#8212;TODO.
 
 Together these projects will provide the data &amp; code to generate ensembles
 of redistricting plans with consistent inputs and in a repeatable manner
