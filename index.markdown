@@ -25,7 +25,7 @@ consists of several repositories:
     to find a maximally population compact map.
 -   [rdaroot](https://github.com/rdatools/rdaroot)&#8212;A heuristic approach for 
     approximating the root redistricting maps (plans) using Balzer's algorithm
-    that we introduced in [Redistricting Trade-offs Illuminated](https://alecramsay.github.io/pg/).
+    that we introduced in [the first version](https://alecramsay.github.io/pg/) of the "Trade-offs" site.
 
 Together these projects provide the data &amp; code to generate ensembles
 of redistricting plans with consistent inputs and in a repeatable manner
